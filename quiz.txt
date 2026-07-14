@@ -16,3 +16,4 @@ Fill-in-the-blanks Quiz:
 5. The ____main____ branch in Git typically represents the stable and production-ready version of the codebase, serving as the primary reference point for development and releases.
 6. merge ____conflict____ occurs in Git when there are conflicting changes between different branches or commits, requiring manual intervention to resolve the discrepancies and complete the merge process.
 >>>>>>> 5c7d448e2ca1d1e16a9865ae5f94938909465a04
+Good job!
